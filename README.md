@@ -1,1 +1,2 @@
 # GrowSQL
+School and individual projects showcase in SQL. The master branch includes my latest completed project with what I've learned recently in the language. Seperate branches will be for working projects or past projects with their respective documentation. Initial project on main : A database for a property management business (wild wood apartments). A project for an oracle based (mysql workbench) class.
